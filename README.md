@@ -1,6 +1,6 @@
 #software engineering methods
 
-Master Build Status [![Build Status](https://travis-ci.org/gamin4/sem.svg?branch=master)](https://travis-ci.org/gamin4/sem)
+[![Build Status](https://travis-ci.org/gamin4/sem.svg?branch=master)](https://travis-ci.org/gamin4/sem)
 
 [![LICENSE](https://img.shields.io/github/license/gamin4/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
 
